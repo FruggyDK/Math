@@ -79,4 +79,3 @@ def trekantAreal(vector1, vector2):
 	return .5 * paraAreal(vector1, vector2)
 
 
-print(trekantAreal([1,4], [3,2]))
